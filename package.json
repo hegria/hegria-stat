@@ -1,0 +1,25 @@
+{
+  "name": "hegria_stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegria/hegria-stat.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hegria/hegria-stat/issues"
+  },
+  "homepage": "https://github.com/hegria/hegria-stat#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
